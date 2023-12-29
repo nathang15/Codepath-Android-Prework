@@ -25,7 +25,7 @@ Here's a walkthrough of implemented features:
 ![prework](https://github.com/nathang15/Codepath-Android-Prework/assets/98335699/84369e8d-3001-4476-8241-e1db5b7eaf5a)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
