@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://github.com/nathang15/Codepath-Android-Prework/assets/98335699/1d2a985e-40d4-4788-9026-15f44dea4c35)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![prework](https://github.com/nathang15/Codepath-Android-Prework/assets/98335699/84369e8d-3001-4476-8241-e1db5b7eaf5a)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
