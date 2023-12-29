@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="nathan_intro">Hello Codepath! I\'m Nathan. I love coding and building products. I\'m a junior CS major at Dickinson College.</string>
+    <string name="button_text">Say hello</string>
+</resources>
